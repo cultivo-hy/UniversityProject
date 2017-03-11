@@ -1,0 +1,16 @@
+email,password,firstname,lastname,birth,coupon
+a@gmail.com,1234,Anthony Edward,Stark,1992-06-04,000000 VVIP-Coupon 30|000005 VIP-Coupon 10
+b@naver.com,5678,Sunsil,Choi,1956-12-12,000005 VIP-Coupon 10
+c@daum.net,9011,Nolbu,Kim,1993-06-08,000000 VVIP-Coupon 30
+d@yahoo.com,1213,World,Hello,1987-07-07,000005 VIP-Coupon 10
+e@pnu.edu,1415,Gil-Dong,Hong,1961-10-12,000005 VIP-Coupon 10
+f@naver.com,1617,Tukang,Kim,1993-06-11,000005 VIP-Coupon 10
+g@pnu.edu,1819,Base,Data,1982-11-11,000000 VVIP-Coupon 30|000005 VIP-Coupon 10
+h@gmail.com,2021,Docs,Google,1980-01-01,000000 VVIP-Coupon 30|000005 VIP-Coupon 10
+i@gmail.com,2223,Trump,Donald,1980-01-05,
+j@gmail.com,2425,National University,Pusan,1985-05-05,
+k@pnu.edu,1010,Toco,Gana,1988-06-01,
+l@naver.com,1212,Nunnu,Nanna,1979-08-02,
+m@daum.net,1000,Robert,Bot,1990-12-31,
+n@pnu.edu,1233,Mon,Poke,1973-08-08,000000 VVIP-Coupon 30
+o@gmail.com,5555,A-Mu-Gae,Kim,1976-02-25,
