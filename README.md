@@ -1,2 +1,2 @@
 # UniversityProject
-University Term Project not perfect almost
+University Term Project and not perfect 
