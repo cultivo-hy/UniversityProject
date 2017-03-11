@@ -1,0 +1,126 @@
+@CHARSET "UTF-8";
+
+body{
+	padding-top: 35px;
+	margin-bottom: 50px;
+	background-color: white;
+}
+
+.container{
+	width:100%;
+	background-color: white;
+}
+
+table.product {
+	width: 100%;
+	background-color: white;
+}
+table.product tr{
+	background-color: white;
+}
+table.product div {
+
+    vertical-align: middle;
+    text-align: center;
+    background-color: white;
+}
+table.product tr div{
+	background-color: white;
+	vertical-align: middle;
+    text-align: center;
+}
+tr{
+	border-collapse:collapse;
+	border : 1px black;
+}
+div{
+	background-color: white;
+    text-align: center;
+}
+#left_name{
+	width : 49%;
+	background-color: white;
+	vertical-align: middle;
+    text-align: center;
+}
+
+#left_cost{
+	width : 49%;
+	background-color: white;
+	vertical-align: middle;
+    text-align: center;
+    color : red;
+  	font-weight:bold;
+}
+
+#right_name{
+	width : 49%;
+	background-color: white;
+	vertical-align: middle;
+    text-align: center;
+}
+#right_cost{
+	width : 49%;
+	background-color: white;
+	vertical-align: middle;
+    text-align: center;
+    color : red;
+    font-weight:bold;
+}
+#haha{
+	max-width: 100%;
+}
+img{
+	max-width: 48%;
+	min-width: 48%;
+	background-color: white;
+}
+
+margin{
+	display:block;
+	width:100%;
+	height: 35px;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	height: 35px;
+	background-color: white;
+	width: 100%;
+    text-align: center;
+}
+
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 35px;
+	background-color: white;
+	width: 100%;
+    text-align: center;
+}
+#search{
+	width: 30%;
+	data-position: "fixed";
+	border: 1px solid #aaa;
+	background: white;
+}
+#search_in{
+	width : 100%;
+}
+#simpleSearch {
+	display: block;
+	border: 1px solid #aaa;
+	background: white;
+}
+.searchInput {
+	margin: 0; border: 0;
+	font-size: 13px;
+	line-height: 120%;
+	outline: none;
+}
+.searchInput::-webkit-search-cancel-button { display: none; }
+
+</style>
